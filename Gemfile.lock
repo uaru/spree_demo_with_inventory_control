@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:uaru/spree-inventory-control.git
+  remote: https://github.com/uaru/spree-inventory-control.git
   revision: 9fbcd47447d6ebb91429294d5634252be54078a7
   specs:
     spree_inventory_control (0.0.1.alpha)

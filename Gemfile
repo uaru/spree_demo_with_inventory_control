@@ -50,4 +50,4 @@ gem 'spree', '~> 4.1'
 gem 'spree_auth_devise', '~> 4.1'
 gem 'spree_gateway', '~> 3.7'
 
-gem 'spree_inventory_control', git: 'git@github.com:uaru/spree-inventory-control.git'
+gem 'spree_inventory_control', git: 'https://github.com/uaru/spree-inventory-control.git'
